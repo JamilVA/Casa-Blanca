@@ -1,8 +1,4 @@
-/*
-	Cosmix by TEMPLATE STOCK
-	templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+
 
 * {
 	margin:0 auto;
@@ -26,7 +22,7 @@ body {
 }
 /*for-section-text-start-here*/
 ::selection {
- background: #54c82a; /* WebKit/Blink Browsers */
+ background: #54c82a; 
  color:#fff;
 }
 ::-webkit-selection {
@@ -1452,8 +1448,3 @@ right: 30px;
 .btn-wtssp2{
 	padding: 10px;
 }
-
-
-
-
-/*Basic-Stylesheets-End-Here*/
