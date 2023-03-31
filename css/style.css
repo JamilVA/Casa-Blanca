@@ -121,7 +121,7 @@ color: #FFF;
 	background-repeat:no-repeat;
 }
 p {
-	font-size:13px;
+	font-size:16px;
 	color:#666;
 	font-weight:bolder;
 	line-height:25px;
@@ -401,7 +401,7 @@ ul.nav li.active a:before {
 }
 .heading p {
 	padding:20px 0px;
-	font-size:13px;
+	font-size:16px;
 	font-weight:bolder;
 	color:#555;
 }
@@ -413,7 +413,7 @@ ul.nav li.active a:before {
 }
 .ab-sec p {
 	padding:10px 0px;
-	font-size:13px;
+	font-size:16px;
 }
 /*Background-stylesheets-include-here*/
 .bg-sec {
@@ -998,66 +998,7 @@ a.btn-blg:hover {
 	-o-transition: all 0.8s;
 	-webkit-transition: all 0.8s;
 }
-/*Contact-stylesheets-include-here*/
-/* #contact {
-	text-align:center;
-	padding:3% 0% 0% 2%;
-}
-.contact-sec-1 {
-	text-align:left;
-}
-.contact-sec-1 h4 {
-	font-weight:bold;
-}
-.contact-sec-1 ul.contact-form li i.fa {
-	color:#666;
-	float:left;
-	margin-right:10px;
-}
-.contact-sec-1 ul.contact-form li h6 {
-	font-size:14px;
-	color:#666;
-	margin:0;
-}
-.contact-sec-1 ul {
-	padding:0;
-	position: relative;
-	top: 20px;
-}
-.contact-sec-1 ul li {
-	display:block;
-	padding-bottom: 30px;
-}
-.contact-sec-1 ul li a {
-	color:#666;
-}
-.contact-sec-1 ul li a:hover {
-	color:#54c82a;
-	-webkit-transition-duration: 0.3s;
-	-moz-transition-duration: 0.3s;
-	-ms-transition-duration: 0.3s;
-	-o-transition-duration: 0.3s;
-	transition-duration: 0.3s;
-}
-label {
-	font-size:15px;
-	font-weight:normal;
-	float:left;
-	margin:0px 0px 20px 0px;
-}
-.form-group {
-	margin-bottom: 30px;
-}
-textarea.form-control {
-	min-height: 120px;
-	resize: none;
-}
-.form-control {
-	border: 1px solid #ccc;
-	height: 35px;
-	border-radius: 0;
-	box-shadow: none;
-} */
+
 
 /********* CONTACT ************/
 
